@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>helloword</h1>
+    <p>Mi chiamo {{$name}} ho {{$age}}</p>
 </body>
 </html>
